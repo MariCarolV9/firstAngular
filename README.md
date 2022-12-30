@@ -2,19 +2,19 @@
 
 # 🔺 Integrantes:
 
-  - Victor Reyes
+  ▪️ Victor Reyes Torres
   
-  - 
+  ▪️ Brolin Llamocca Quispe
+ 
+  ▪️ Marwin Garay Montoya
   
-  - Colorina Marizol Quispe
+  ▪️ Colorina Marizol Quispe
   
-  - Jennifer Nuñez
+  ▪️ Jennifer Nuñez
   
-  - Paola 
+  ▪️ Paola Zuñiga
   
-
 
  #
 ![Image Text](https://github.com/MariCarolV9/firstAngular/blob/main/img/home.jpg)
- #
-    
+ 
