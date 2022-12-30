@@ -1,0 +1,13 @@
+nav{
+     margin-top: 1rem; display: flex; flex-direction: row; justify-content: space-between;
+}
+.logo{
+    overflow: hidden; width: 60px; height: 60px; border-radius: 50%; position: relative; margin-left: 2rem; margin-top: 10px;
+}
+.menu{
+    background-color: rgba(13, 18, 40, 0.4);
+    margin-right: 2rem; 
+}
+.menu>ul{list-style-type: none;}
+.menu>ul>li{ padding: 10px 20px; }
+.menu a{color: #fff; text-decoration: none; font-family: 'Barlow Condensed', serif; font-size: 1rem;letter-spacing: 5px;  font-weight: 200;}
