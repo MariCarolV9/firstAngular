@@ -1,6 +1,6 @@
 # Tarea Sesión 3, 4 y 5
 
-# 🔘 Integrantes:
+# 🔺 Integrantes:
 
   - Victor Reyes
   
